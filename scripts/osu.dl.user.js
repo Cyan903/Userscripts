@@ -52,9 +52,6 @@ async function addUserButtons() {
                     <span class="btn-osu-big__left"><span class="btn-osu-big__text-top">
                         Log in
                     </span></span>
-                    <span class="btn-osu-big__icon">
-                        <span class="fa fa-fw"><span class="fas fa-download"></span></span>
-                    </span>
                 </span>
             </a>
         `;
@@ -69,9 +66,6 @@ async function addUserButtons() {
                     <span class="btn-osu-big__left"><span class="btn-osu-big__text-top">
                         Log out (${userData.username})
                     </span></span>
-                    <span class="btn-osu-big__icon">
-                        <span class="fa fa-fw"><span class="fas fa-download"></span></span>
-                    </span>
                 </span>
             </a>
 
