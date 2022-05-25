@@ -3,8 +3,6 @@
 
 Collection of userscripts I've written over time. Most of these are made to run using [Tampermonkey](https://www.tampermonkey.net/), but shouldn't have issues running on other userscript managers. Currently I've written **eight** scripts for **six** websites. Scripts can be found in the `/scripts` directory.
 
-**Be sure to check out [scripts.md](https://github.com/Cyan903/Userscripts/blob/main/scripts.md) to find out what each script does!**
-
 ### Install
 To install a script you will need a userscript manager. I personally use Tampermonkey, but any of these should work.
 
@@ -18,3 +16,6 @@ To install a script you will need a userscript manager. I personally use Tamperm
 - [crypto-js](https://www.npmjs.com/package/crypto-js) - osu.dl.user.js
 - [wshook](https://github.com/skepticfx/wshook) - skribbl-hook.user.js
 - [cors-anywhere](https://github.com/Rob--W/cors-anywhere) - wikigame.user.js
+
+<br />
+Be sure to check out <a href="https://github.com/Cyan903/Userscripts/blob/main/scripts.md">scripts.md</a> to find out what each script does!
