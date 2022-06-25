@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-    Using <a href="https://www.youtube.com">YouTube's</a> playback speed, you can now change the pitch too (bottom left).
+    Using <a href="https://www.youtube.com">YouTube's</a> playback speed, you can now change the pitch (bottom left).
 </p>
 
 <p align="center">
