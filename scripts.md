@@ -76,6 +76,21 @@
 
 ---
 
+<h3 align="center">YT Pitch</h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Cyan903/Static-github/main/Userscripts/README/yt-pitch.png" />
+</p>
+
+<p align="center">
+    Using <a href="https://www.youtube.com">YouTube's</a> playback speed, you can now change the pitch too (bottom left).
+</p>
+
+<p align="center">
+    <a href="https://github.com/Cyan903/Userscripts/raw/main/scripts/yt-pitch.user.js">Download</a> / <a href="https://github.com/Cyan903/Userscripts/blob/main/scripts/yt-pitch.user.js">Source</a> 
+</p>
+
+---
+
 <h3 align="center">Misc</h3>
 
 Other smaller scripts not mentioned. These scripts are either part of another script, or are too small to have a proper section. You can find all these scripts in the `/scripts` directory.
