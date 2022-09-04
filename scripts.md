@@ -46,6 +46,21 @@
 
 ---
 
+<h3 align="center">Lodestone Redirect</h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Cyan903/Static-github/main/Userscripts/README/lodestone-fix.png" height="450" />
+</p>
+
+<p align="center">
+    The "Display Site" button does not work on linux devices. This script will redirect to the proper URL.
+</p>
+
+<p align="center">
+    <a href="https://github.com/Cyan903/Userscripts/raw/main/scripts/lodestone-redirect.user.js">Download</a> / <a href="https://github.com/Cyan903/Userscripts/blob/main/scripts/lodestone-redirect.user.js">Source</a> 
+</p>
+
+---
+
 <h3 align="center">Skribbl-bot</h3>
 <p align="center">
     <img src="https://raw.githubusercontent.com/Cyan903/Static-github/main/Userscripts/README/skribbl-bot.png" />
