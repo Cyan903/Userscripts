@@ -6,8 +6,6 @@
 // @match        *://*.youtube.com/*
 // @exclude      *://music.youtube.com/*
 // @exclude      *://*.music.youtube.com/*
-// @compatible   chrome
-// @compatible   firefox
 // @grant        GM_addStyle
 // @run-at       document-end
 // ==/UserScript==
@@ -25,50 +23,31 @@ GM_addStyle(`
     }
 `);
 
-const config = {
-    path: {
-        css: "head",
-        buttons: ".ytp-right-controls",
-        video: ".html5-main-video",
-    },
-
-    markdown: {
-        button: `
-            <button class="ytp-button ytp-pitch-button" aria-expanded="false" aria-haspopup="true">
-                Normal
-            </button>
-        `,
-    },
-};
-
 addEventListener("yt-navigate-finish", () => {
-    const vid = document.querySelector(config.path.video);
+    const vid = document.querySelector(".html5-main-video");
     const isPitched = () => {
-        if (
-            vid.preservesPitch == undefined ||
-            vid.mozPreservesPitch == undefined
-        ) {
+        if (vid.preservesPitch == undefined) {
             vid.preservesPitch = true;
-            vid.mozPreservesPitch = true;
         }
 
-        return vid.preservesPitch || vid.mozPreservesPitch
-            ? "Normal"
-            : "Pitched";
+        return vid.preservesPitch ? "Normal" : "Pitched";
     };
 
     document
         .querySelectorAll(".ytp-pitch-button")
         .forEach((elm) => elm.remove());
 
-    document
-        .querySelector(config.path.buttons)
-        .insertAdjacentHTML("beforeend", config.markdown.button);
+    document.querySelector(".ytp-right-controls").insertAdjacentHTML(
+        "beforeend",
+        `
+            <button class="ytp-button ytp-pitch-button" aria-expanded="false" aria-haspopup="true">
+                Normal
+            </button>
+        `
+    );
 
     document.querySelector(".ytp-pitch-button").onclick = function () {
         vid.preservesPitch = !vid.preservesPitch;
-        vid.mozPreservesPitch = !vid.mozPreservesPitch;
-
         this.innerText = isPitched();
     };
 
