@@ -18,4 +18,4 @@ To install a script you will need a userscript manager. I personally use Tamperm
 - [cors-anywhere](https://github.com/Rob--W/cors-anywhere) - wikigame.user.js
 
 <br />
-Be sure to check out <a href="https://github.com/Cyan903/Userscripts/blob/main/scripts.md">scripts.md</a> to find out what each script does!
+Be sure to check out <a href="https://github.com/Cyan903/Userscripts/blob/main/SCRIPTS.md">scripts.md</a> to find out what each script does!
