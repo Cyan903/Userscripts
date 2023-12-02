@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-    Draw image from disk onto canvas in multiplayer games. Supports scaling & large files!
+    Draw image from disk onto canvas in multiplayer games. Supports scaling & large files.
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@
 </p>
 
 <p align="center">
-    Adds a button to bypass the login wall on <a href="https://www.quora.com/">Quora.</a>
+    Adds a button to bypass the login wall on <a href="https://www.quora.com/">Quora</a>.
 </p>
 
 <p align="center">
