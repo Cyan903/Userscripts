@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Short Direct
 // @version      0.1
-// @description  I HATE YOUTUBE SHORTS
+// @description  I HATE YOUTUBE SHORTS!!!
 // @author       Cyan903
 // @match        *://*.youtube.com/*
 // @exclude      *://music.youtube.com/*

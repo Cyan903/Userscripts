@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Quora Login Bypass
 // @version      0.1
-// @description  Pitch control for YouTube!
+// @description  Bypass annoying login wall on Quora.
 // @author       Cyan903
 // @match        *://*.quora.com/*
 // @grant        GM_addStyle

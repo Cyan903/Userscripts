@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anilist Themes
 // @version      0.1
-// @description  Adds opening & ending data to anilist! (alt + o)
+// @description  Adds opening & ending data to anilist. (alt + o)
 // @author       Cyan903
 // @match        https://anilist.co/*
 // @grant        GM.setValue

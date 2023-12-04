@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Lodestone Redirect
 // @version      0.1
-// @description  Fix lodestone's incorrect redirect
+// @description  Fix lodestone's incorrect redirect.
 // @author       Cyan903
 // @match        *://*.finalfantasyxiv.com/lodestone/error/*
 // @run-at       document-idle

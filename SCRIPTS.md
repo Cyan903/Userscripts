@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    Using <a href="https://myanimelist.net/apiconfig/references/api/v2">MAL's public API</a>, this script will show a popup window containing a series opening/ending theme.
+    Using <a href="https://myanimelist.net/apiconfig/references/api/v2">MAL's public API</a>, this script will show a popup window containing the opening/ending theme.
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-    Download a beatmap without logging into the website. Uses the same method of download that osu!direct does, but doesn't require supporter. Also creates buttons for beatmap mirrors.
+    Download a beatmap without logging into the website. Uses the same method of download that osu!direct does, but doesn't require supporter. Supports beatmap mirrors.
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-    Short videos are automatically played with the YouTube "shorts" player. This script brings back the old UI for "short" videos.
+    Short videos are automatically played with the YouTube shorts player. This script brings back the old UI for short videos.
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-    The "Display Site" button does not work on linux devices. This script will redirect to the proper URL.
+    The "Display Site" button does not work on Linux devices. This script will redirect to the proper URL.
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-    Draw image from disk onto canvas in multiplayer games. Supports scaling & large files.
+    Draw image from disk onto canvas in multiplayer games. Supports scaling & larger files.
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-    Win <a href="https://www.thewikigame.com/">wikigame</a> games by redirecting the game to random wiki links.
+    Win <a href="https://www.thewikigame.com/">wikigame</a> games by redirecting to random wiki links.
 </p>
 
 <p align="center">
