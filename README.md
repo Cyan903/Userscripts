@@ -2,7 +2,7 @@
 
 ![code-style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg) ![last-commit](https://img.shields.io/github/last-commit/cyan903/userscripts) ![repo-size](https://img.shields.io/github/repo-size/cyan903/userscripts)
 
-Collection of userscripts I've written over time. Most of these are made to run using [Tampermonkey](https://www.tampermonkey.net/), but shouldn't have issues running on other userscript managers. Currently I've written **eight** scripts for **six** websites. Scripts can be found in the `/scripts` directory.
+Collection of userscripts I've written over time. Most of these scripts are tested using [Tampermonkey](https://www.tampermonkey.net) but shouldn't have issues on other userscript managers. Scripts can be found in the `/scripts` directory.
 
 ### Install
 
