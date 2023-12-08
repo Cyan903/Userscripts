@@ -65,7 +65,7 @@ GM_addStyle(`
 
     document.body.insertAdjacentHTML(
         "beforeend",
-        `<button id="closeWall" class="chidden">Close</Button>`
+        `<button id="closeWall" class="chidden">Close</Button>`,
     );
 
     setInterval(show, 200);

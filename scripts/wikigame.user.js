@@ -39,7 +39,10 @@ window.switchItUp = (i, max, main) => {
     }
 
     setTimeout(() => {
-        fetch(NOCORS+"https://en.wikipedia.org/w/api.php?action=query&list=random&format=json&rnnamespace=0&rnlimit=1")
+        fetch(
+            NOCORS +
+                "https://en.wikipedia.org/w/api.php?action=query&list=random&format=json&rnnamespace=0&rnlimit=1",
+        )
             .then((o) => o.json())
             .then((obj) => {
                 const rand = obj.query.random[0].title.split(" ").join("_");

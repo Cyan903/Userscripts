@@ -43,7 +43,7 @@ addEventListener("yt-navigate-finish", () => {
             <button class="ytp-button ytp-pitch-button" aria-expanded="false" aria-haspopup="true">
                 Normal
             </button>
-        `
+        `,
     );
 
     document.querySelector(".ytp-pitch-button").onclick = function () {

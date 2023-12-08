@@ -4,13 +4,17 @@
 
 Collection of userscripts I've written over time. Scripts tested using [Tampermonkey](https://www.tampermonkey.net) and [Violentmonkey](https://violentmonkey.github.io). Scripts can be found in the `/scripts` directory.
 
+```
+$ npm run lint
+$ npm run format
+```
+
 ### Install
 
-To install a script you will need a userscript manager. I personally use Tampermonkey, but any of these should work.
+To install a script you will need a userscript manager.
 
 -   [Tampermonkey](https://www.tampermonkey.net/) (Chrome/Firefox)
 -   [Violentmonkey](https://violentmonkey.github.io/) (Chrome/Firefox)
--   [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (Firefox)
 
 ### Libraries Used
 

@@ -35,9 +35,9 @@ const testLoginFields = (field) => {
 const isPopulatedDOM = (elm) => {
     return (
         document.querySelector(elm) === null ||
-        [undefined, null, ""].includes(document.querySelector(elm)?.innerHTML) 
+        [undefined, null, ""].includes(document.querySelector(elm)?.innerHTML)
     );
-}
+};
 
 async function addUserButtons() {
     if (hasLoggedInSite()) {

@@ -246,7 +246,10 @@ async function showPopup() {
         for (const search of searchURLs) {
             console.log(u);
             html.push(`
-                <a href="${fmtUrl(u, search.url)}" class="theme-search-icon" target="_blank">
+                <a href="${fmtUrl(
+                    u,
+                    search.url,
+                )}" class="theme-search-icon" target="_blank">
                     <img src="${search.icon}" alt="${search.name}" />
                 </a>
             `);
