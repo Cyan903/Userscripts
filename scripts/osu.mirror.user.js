@@ -2,7 +2,7 @@
 // @name         osu! mirror download
 // @version      0.1
 // @description  Download beatmaps without logging in (mirror only).
-// @author       CyanPiano
+// @author       Cyan903
 // @match        https://osu.ppy.sh/*
 // ==/UserScript==
 

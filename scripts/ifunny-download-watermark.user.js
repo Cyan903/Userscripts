@@ -2,7 +2,7 @@
 // @name         iFunny Image Downloader
 // @version      0.1
 // @description  Idea from my friend because he never removes watermarks.
-// @author       CyanPiano
+// @author       Cyan903
 // @match        https://img.ifunny.co/images/*
 // @grant        none
 // ==/UserScript==

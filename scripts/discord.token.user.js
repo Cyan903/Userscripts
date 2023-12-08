@@ -2,7 +2,7 @@
 // @name         Discord Token Grabber
 // @version      0.1
 // @description  Get a Discord token from a logged in session.
-// @author       CyanPiano
+// @author       Cyan903
 // @match        https://discord.com/*
 // @grant        none
 // @run-at       document-start

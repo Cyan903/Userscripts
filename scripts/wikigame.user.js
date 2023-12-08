@@ -2,7 +2,7 @@
 // @name         TheWikiGame Cheat
 // @version      0.1
 // @description  Run cheat() during a game to start the cheat.
-// @author       CyanPiano
+// @author       Cyan903
 // @match        https://www.thewikigame.com/*
 // @run-at       document-idle
 // @grant        none

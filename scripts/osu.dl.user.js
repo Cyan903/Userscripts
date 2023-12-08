@@ -2,7 +2,7 @@
 // @name         osu! beatmap download
 // @version      0.1
 // @description  Download beatmaps without logging in.
-// @author       CyanPiano
+// @author       Cyan903
 // @match        https://osu.ppy.sh/*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js
 // @grant        GM.setValue
