@@ -71,7 +71,22 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/Cyan903/Userscripts/raw/main/scripts/lodestone-redirect.user.js">Download</a> / <a href="https://github.com/Cyan903/Userscripts/blob/main/scripts/lodestone-redirect.user.js">Source</a> 
+    <a href="https://github.com/Cyan903/Userscripts/raw/main/scripts/lodestone-redirect.user.js">Download</a> / <a href="https://github.com/Cyan903/Userscripts/blob/main/scripts/lodestone-redirect.user.js">Source</a>
+</p>
+
+---
+
+<h3 align="center">MyAnimeList to AniList Button</h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Cyan903/Static-github/main/Userscripts/README/mal-anilist.png" height="450" />
+</p>
+
+<p align="center">
+    Add a button to access AL from MAL.
+</p>
+
+<p align="center">
+    <a href="https://github.com/Cyan903/Userscripts/raw/main/scripts/mal-anilist.user.js">Download</a> / <a href="https://github.com/Cyan903/Userscripts/blob/main/scripts/mal-anilist.user.js">Source</a>
 </p>
 
 ---
