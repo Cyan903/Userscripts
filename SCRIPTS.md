@@ -140,6 +140,6 @@
 
 Other smaller scripts not mentioned. These scripts are either part of another script, or are too small to have a proper section. You can find all these scripts in the `/scripts` directory.
 
--   [discord.token.user.js](https://github.com/Cyan903/Userscripts/blob/main/scripts/discord.token.user.js) - Simple way to login to [Discord](https://discord.com/) with just an authentication token.
+-   [discord.token.user.js](https://github.com/Cyan903/Userscripts/blob/main/scripts/discord.token.user.js) - Simple way to log into [Discord](https://discord.com/) with just an authentication token.
 -   [osu.mirror.user.js](https://github.com/Cyan903/Userscripts/blob/main/scripts/osu.mirror.user.js) - Similar to [osu.dl.user.js](https://github.com/Cyan903/Userscripts/blob/main/scripts/osu.dl.user.js), except with the osu!direct feature removed.
 -   [skribbl-hook.user.js](https://github.com/Cyan903/Userscripts/blob/main/scripts/skribbl-hook.user.js) - Websocket hook for [skribbl-bot.user.js](https://github.com/Cyan903/Userscripts/blob/main/scripts/skribbl-bot.user.js). This is required for the bot to work.
