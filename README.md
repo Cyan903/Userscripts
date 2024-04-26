@@ -5,7 +5,6 @@
 Collection of userscripts I've written over time. Scripts tested using [Tampermonkey](https://www.tampermonkey.net) and [Violentmonkey](https://violentmonkey.github.io). Scripts can be found in the `/scripts` directory.
 
 ```
-$ npm run lint
 $ npm run format
 ```
 
