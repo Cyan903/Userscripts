@@ -21,7 +21,8 @@ To install a script you will need a Userscript manager.
 - [wshook](https://github.com/skepticfx/wshook) - skribbl-hook.user.js
 - [cors-anywhere](https://github.com/Rob--W/cors-anywhere) - wikigame.user.js
 
-Be sure to check out [SCRIPTS.md](scripts) to find out what each script does!
+> [!NOTE]
+> Be sure to check out [SCRIPTS.md](scripts) to find out what each script does.
 
 ## License
 
